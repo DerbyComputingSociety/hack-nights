@@ -31,6 +31,10 @@ For any text editor you choose, implement a command to get the star count of the
 
 Test if a string is a palindrome.
 
+**Enigma Machine**
+
+Encode/decode a message, or both!
+
 
 # Voting
 
